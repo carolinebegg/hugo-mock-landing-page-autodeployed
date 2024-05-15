@@ -4,6 +4,8 @@
 
 ### PART II: Automating the Deployment of a Hugo Website (hugo-mock-landing-page-autodeployed)
 
+Website: https://carolinebegg.github.io/hugo-mock-landing-page-autodeployed/
+
 Summary of PART II Tasks + Additional Practice
 
 1. Import hugo-mock-landing-page repository
